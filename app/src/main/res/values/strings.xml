@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Punk Brew</string>
+
+    <string name="details_label">Details</string>
+
+    <string name="menu_search_title">Search</string>
+    <string name="menu_filter_false_title">Filter</string>
+    <string name="menu_filter_true_title">Reset filter</string>
+    <string name="menu_information_title">Information</string>
+
+    <string name="title_abv">ABV</string>
+    <string name="title_ibu">IBU</string>
+    <string name="title_target_og">Target OG</string>
+    <string name="title_target_fg">Target FG</string>
+    <string name="title_ebc">EBC</string>
+    <string name="title_srm">SRM</string>
+    <string name="title_ph">PH</string>
+    <string name="title_attenuation">Attenuation</string>
+    <string name="title_volume">Volume</string>
+    <string name="title_boil_volume">Boil Volume</string>
+
+    <string name="header_description">This Beer Is</string>
+    <string name="header_food_pairing">Food Pairing</string>
+    <string name="header_brewers_tips">Brewer\'s Tips</string>
+
+    <string name="format_item_text_bullet">"• %s"</string>
+    <string name="format_error">"⚠️ %s"</string>
+
+    <string name="search_hint">Search for beers</string>
+    <string name="no_results">No results 😓</string>
+
+    <string name="toast_filter_enabled">Filter enabled</string>
+    <string name="toast_filter_disabled">Filter disabled</string>
+</resources>
