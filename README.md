@@ -4,7 +4,7 @@
 
 The project is [Kotlin](https://github.com/JetBrains/kotlin) based Android application, which represents [BrewDog](https://www.brewdog.com) beer catalogue fetch data from [Punk API](https://punkapi.com) and store the data locally. In this application you can view the entire catalog of BrewDog kinds of beer, detailed information about each kind of beer.
 
-Application follows MVVM pattern and use LiveData and ViewModel from [Android Architecture Components](https://github.com/android/architecture-components-samples).
+Application follows MVVM pattern and use LiveData and ViewModel from Android Architecture Components.
 
 ## Dependencies
 
@@ -45,6 +45,4 @@ If you want to install app to your device/emulator, run:
 ./gradlew installDebug
 ```
 
-## License
 
-[MIT](LICENSE) © [alxiw](https://github.com/alxiw)
