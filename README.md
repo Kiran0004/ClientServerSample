@@ -6,12 +6,6 @@ The project is [Kotlin](https://github.com/JetBrains/kotlin) based Android appli
 
 Application follows MVVM pattern and use LiveData and ViewModel from [Android Architecture Components](https://github.com/android/architecture-components-samples).
 
-## Usage
-
-List of beers                       | Beer details                          
-:----------------------------------:|:--------------------------------------:
-![List of beers](img/sample-01.jpg) | ![Beer details](img/sample-03.jpg)       
-
 ## Dependencies
 
 * [Kotlin](https://github.com/JetBrains/kotlin) 1.4.10
